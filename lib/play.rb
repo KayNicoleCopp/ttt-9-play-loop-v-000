@@ -41,4 +41,5 @@ def play(board)
   turn(board)
   until counter ==9
     counter += 1
+  end
  end
