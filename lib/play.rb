@@ -43,4 +43,4 @@ def play(board)
     until counter ==9
     counter += 1
   end
- end
+end
